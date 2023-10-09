@@ -4,8 +4,8 @@
 
 I created 12 tables and 2 procedure.:newspaper:
 
-- :clipboard:Then when you want to create PersonDetail it is easy for you. 
-- :clipboard:Also I created another procedure with CreateResume and if you enter the name of person it can retreive from name's data from PersonDetail
+- :clipboard:Then when you want to create PersonDetail it is easy to handle.
+- :clipboard:Also I created another procedure with CreateResume and if you enter the name of person it can retreive from name's data from PersonDetail.
 
 <img src="https://imagizer.imageshack.com/img922/2403/4Gs3WM.png" alt="alt text" width="700" height="900">
 ## -------
